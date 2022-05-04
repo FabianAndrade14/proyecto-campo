@@ -1,7 +1,7 @@
 # Integrantes del proyecto
 
-Jorge Armando Abril
-Juan Camilo Gonzalez
+Jorge Armando Abril,
+Juan Camilo Gonzalez,
 Fabian Camilo Andrade
 
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
