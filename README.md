@@ -1,4 +1,4 @@
-# [Integrantes del proyecto]
+# Integrantes del proyecto
 
 Jorge Armando Abril
 Juan Camilo Gonzalez
